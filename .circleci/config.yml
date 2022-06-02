@@ -67,7 +67,7 @@ jobs:
       - *restore_yarn_cache_peer
       - run:
           name: Test Spec
-          command: yarn test --no-progress --browsers=ChromeHeadless
+          command: yarn test
   lint:
     <<: *job_defaults
     steps:
