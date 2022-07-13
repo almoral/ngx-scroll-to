@@ -21,8 +21,8 @@
     <th align="left">CI / CD</th>
     <td align="left">Circle CI</td>
     <td align="left">
-      <a href="https://circleci.com/gh/nicky-lenaers/ngx-scroll-to" target="_blank">
-        <img src="https://img.shields.io/circleci/project/github/nicky-lenaers/ngx-scroll-to/master.svg?style=flat-square" alt="Circle CI">
+      <a href="https://circleci.com/gh/almoral/ngx-scroll-to" target="_blank">
+        <img src="https://img.shields.io/circleci/project/github/almoral/ngx-scroll-to/master.svg?style=flat-square" alt="Circle CI">
       </a>
     </td>
   </tr>
@@ -30,8 +30,8 @@
     <th align="left">Releases</th>
     <td align="left">GitHub</td>
     <td align="left">
-      <a href="https://github.com/nicky-lenaers/ngx-scroll-to/releases" target="_blank">
-        <img src="https://img.shields.io/github/release/nicky-lenaers/ngx-scroll-to.svg?style=flat-square" alt="GitHub Release">
+      <a href="https://github.com/almoral/ngx-scroll-to/releases" target="_blank">
+        <img src="https://img.shields.io/github/release/almoral/ngx-scroll-to.svg?style=flat-square" alt="GitHub Release">
       </a>
     </td>
   </tr>
@@ -48,8 +48,8 @@
     <th align="left" valign="top">Dependencies</th>
     <td align="left">Production</td>
     <td align="left">
-      <a href="https://david-dm.org/nicky-lenaers/ngx-scroll-to" target="_blank">
-        <img src="https://img.shields.io/david/nicky-lenaers/ngx-scroll-to.svg?style=flat-square" alt="Production Dependencies">
+      <a href="https://david-dm.org/almoral/ngx-scroll-to" target="_blank">
+        <img src="https://img.shields.io/david/almoral/ngx-scroll-to.svg?style=flat-square" alt="Production Dependencies">
       </a>
     </td>
   </tr>
@@ -57,8 +57,8 @@
     <td>&nbsp;</td>
     <td align="left">Peer</td>
     <td align="left">
-      <a href="https://david-dm.org/nicky-lenaers/ngx-scroll-to?type=peer" target="_blank">
-        <img src="https://img.shields.io/david/peer/nicky-lenaers/ngx-scroll-to.svg?style=flat-square" alt="Peer Dependencies">
+      <a href="https://david-dm.org/almoral/ngx-scroll-to?type=peer" target="_blank">
+        <img src="https://img.shields.io/david/peer/almoral/ngx-scroll-to.svg?style=flat-square" alt="Peer Dependencies">
       </a>
     </td>
   </tr>
@@ -66,8 +66,8 @@
     <td>&nbsp;</td>
     <td align="left">Development</td>
     <td align="left">
-      <a href="https://david-dm.org/nicky-lenaers/ngx-scroll-to?type=dev" target="_blank">
-        <img src="https://img.shields.io/david/dev/nicky-lenaers/ngx-scroll-to.svg?style=flat-square" alt="Development Dependencies">
+      <a href="https://david-dm.org/almoral/ngx-scroll-to?type=dev" target="_blank">
+        <img src="https://img.shields.io/david/dev/almoral/ngx-scroll-to.svg?style=flat-square" alt="Development Dependencies">
       </a>
     </td>
   </tr>
@@ -75,8 +75,8 @@
     <td>&nbsp;</td>
     <td align="left">Optional</td>
     <td align="left">
-      <a href="https://david-dm.org/nicky-lenaers/ngx-scroll-to?type=optional" target="_blank">
-        <img src="https://img.shields.io/david/optional/nicky-lenaers/ngx-scroll-to.svg?style=flat-square" alt="Optional Dependencies">
+      <a href="https://david-dm.org/almoral/ngx-scroll-to?type=optional" target="_blank">
+        <img src="https://img.shields.io/david/optional/almoral/ngx-scroll-to.svg?style=flat-square" alt="Optional Dependencies">
       </a>
     </td>
   </tr>
@@ -93,7 +93,7 @@
     <th align="left" valign="top">License</th>
     <td>MIT</td>
     <td>
-      <a href="https://github.com/nicky-lenaers/ngx-scroll-to/blob/master/LICENSE" target="_blank">
+      <a href="https://github.com/almoral/ngx-scroll-to/blob/master/LICENSE" target="_blank">
         <img src="https://img.shields.io/npm/l/@nicky-lenaers/ngx-scroll-to.svg?style=flat-square" alt="License">
       </a>
     </td>
