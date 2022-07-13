@@ -1,6 +1,6 @@
 {
-  "name": "@nicky-lenaers/ngx-scroll-to-demo",
-  "description": "Demo Application for @nicky-lenaers/ngx-scroll-to package.",
+  "name": "@almoral/ngx-scroll-to",
+  "description": "Demo for scroll-to package.",
   "version": "9.0.0",
   "license": "MIT",
   "scripts": {
@@ -35,6 +35,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nicky-lenaers/ngx-scroll-to.git"
+  },
+  "publishConfig": {
+    "url": "https://github.com/almoral/ngx-scroll-to"
   },
   "homepage": "https://github.com/nicky-lenaers/ngx-scroll-to#readme",
   "bugs": {
