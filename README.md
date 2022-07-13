@@ -39,8 +39,8 @@
     <td>&nbsp;</td>
     <td>NPM</td>
     <td align="left">
-      <a href="https://www.npmjs.com/package/@nicky-lenaers/ngx-scroll-to" target="_blank">
-        <img src="https://img.shields.io/npm/v/@nicky-lenaers/ngx-scroll-to.svg?style=flat-square" alt="NPM Release">
+      <a href="https://www.npmjs.com/package/almoral/ngx-scroll-to" target="_blank">
+        <img src="https://img.shields.io/npm/v/almoral/ngx-scroll-to.svg?style=flat-square" alt="NPM Release">
       </a>
     </td>
   </tr>
@@ -84,7 +84,7 @@
     <th align="left" valign="top">Downloads</th>
     <td>NPM</td>
     <td>
-      <a href="https://npmjs.org/@nicky-lenaers/ngx-scroll-to" target="_blank">
+      <a href="https://npmjs.org/almoral/ngx-scroll-to" target="_blank">
         <img src="https://img.shields.io/npm/dm/%40nicky-lenaers%2Fngx-scroll-to.svg?style=flat-square" alt="NPM Monthly Downloads">
       </a>
     </td>
@@ -94,7 +94,7 @@
     <td>MIT</td>
     <td>
       <a href="https://github.com/almoral/ngx-scroll-to/blob/master/LICENSE" target="_blank">
-        <img src="https://img.shields.io/npm/l/@nicky-lenaers/ngx-scroll-to.svg?style=flat-square" alt="License">
+        <img src="https://img.shields.io/npm/l/almoral/ngx-scroll-to.svg?style=flat-square" alt="License">
       </a>
     </td>
   </tr>
